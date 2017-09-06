@@ -1,0 +1,52 @@
+[19-Aug-2017 13:18:39 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/wcwalk/public_html/Seo/SEOstats/Services/3rdparty/GTB_PageRank.php on line 80
+[19-Aug-2017 13:21:08 UTC] PHP Fatal error:  Call to undefined function SEOstats\Config\env() in /home/wcwalk/public_html/Seo/SEOstats/Config/ApiKeys.php on line 37
+[19-Aug-2017 13:21:10 UTC] PHP Fatal error:  Call to undefined function SEOstats\Config\env() in /home/wcwalk/public_html/Seo/SEOstats/Config/ApiKeys.php on line 37
+[19-Aug-2017 13:21:11 UTC] PHP Fatal error:  Call to undefined function SEOstats\Config\env() in /home/wcwalk/public_html/Seo/SEOstats/Config/ApiKeys.php on line 37
+[19-Aug-2017 13:21:11 UTC] PHP Fatal error:  Call to undefined function SEOstats\Config\env() in /home/wcwalk/public_html/Seo/SEOstats/Config/ApiKeys.php on line 37
+[19-Aug-2017 13:21:11 UTC] PHP Fatal error:  Call to undefined function SEOstats\Config\env() in /home/wcwalk/public_html/Seo/SEOstats/Config/ApiKeys.php on line 37
+[19-Aug-2017 13:21:35 UTC] PHP Fatal error:  Call to undefined function SEOstats\Config\env() in /home/wcwalk/public_html/Seo/SEOstats/Config/ApiKeys.php on line 37
+[19-Aug-2017 13:25:10 UTC] PHP Fatal error:  Call to undefined method SEOstats\Services\Social::getOrganicKeywords() in /home/wcwalk/public_html/Seo/index.php on line 12
+[19-Aug-2017 13:25:18 UTC] PHP Fatal error:  Call to undefined method SEOstats\Services\Social::getDomainRankHistory() in /home/wcwalk/public_html/Seo/index.php on line 12
+[19-Aug-2017 13:36:48 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 11
+[19-Aug-2017 13:36:48 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 11
+[19-Aug-2017 13:36:48 UTC] PHP Fatal error:  require(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wcwalk/public_html/Seo/SeoReport.php on line 11
+[19-Aug-2017 13:37:14 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 12
+[19-Aug-2017 13:37:14 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 12
+[19-Aug-2017 13:37:14 UTC] PHP Fatal error:  require(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wcwalk/public_html/Seo/SeoReport.php on line 12
+[19-Aug-2017 13:37:57 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:37:57 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:37:57 UTC] PHP Fatal error:  require(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:38:03 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:38:03 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:38:03 UTC] PHP Fatal error:  require(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:38:37 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:38:37 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:38:37 UTC] PHP Fatal error:  require(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:38:47 UTC] PHP Warning:  require_once(/SeoReport.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/index.php on line 2
+[19-Aug-2017 13:38:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/SeoReport.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wcwalk/public_html/Seo/index.php on line 2
+[19-Aug-2017 13:39:22 UTC] PHP Warning:  require_once(/SeoReport.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/index.php on line 2
+[19-Aug-2017 13:39:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/SeoReport.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wcwalk/public_html/Seo/index.php on line 2
+[19-Aug-2017 13:39:29 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:39:29 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:39:29 UTC] PHP Fatal error:  require(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:39:30 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:39:30 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:39:30 UTC] PHP Fatal error:  require(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:39:31 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:39:31 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:39:31 UTC] PHP Fatal error:  require(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:41:14 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:41:14 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:41:14 UTC] PHP Fatal error:  require(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wcwalk/public_html/Seo/SeoReport.php on line 15
+[19-Aug-2017 13:41:23 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 14
+[19-Aug-2017 13:41:23 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 14
+[19-Aug-2017 13:41:23 UTC] PHP Fatal error:  require(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wcwalk/public_html/Seo/SeoReport.php on line 14
+[19-Aug-2017 13:41:31 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 14
+[19-Aug-2017 13:41:31 UTC] PHP Warning:  require(tcpdf/tcpdf.php): failed to open stream: No such file or directory in /home/wcwalk/public_html/Seo/SeoReport.php on line 14
+[19-Aug-2017 13:41:31 UTC] PHP Fatal error:  require(): Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/wcwalk/public_html/Seo/SeoReport.php on line 14
+[19-Aug-2017 13:44:34 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ']' in /home/wcwalk/public_html/Seo/SeoReport.php on line 976
+[19-Aug-2017 13:44:39 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ']' in /home/wcwalk/public_html/Seo/SeoReport.php on line 976
+[19-Aug-2017 13:44:57 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ']' in /home/wcwalk/public_html/Seo/SeoReport.php on line 974
+[19-Aug-2017 13:45:22 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ']' in /home/wcwalk/public_html/Seo/SeoReport.php on line 974
+[19-Aug-2017 13:45:30 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ']' in /home/wcwalk/public_html/Seo/SeoReport.php on line 974
+[19-Aug-2017 13:45:36 UTC] PHP Parse error:  syntax error, unexpected 'm' (T_STRING), expecting ']' in /home/wcwalk/public_html/Seo/SeoReport.php on line 974
